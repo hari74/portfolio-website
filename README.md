@@ -6,7 +6,7 @@ If you want to learn more about my development journey, check out my development
 
 This website seems to be about a person named "Dangeti Hari Babu," who is a Front-End Web Developer. The website includes several sections, such as "About," "Skills," "Portfolio," "Education," and "Contact." Here's a brief description of each section:
 
-About: This section provides some information about Dangeti Hari Babu. It includes a short introduction and some basic information about the person, such as their date of birth, email, phone number, address, and languages spoken.
+ About: This section provides some information about Dangeti Hari Babu. It includes a short introduction and some basic information about the person, such as their date of birth, email, phone number, address, and languages spoken.
 
 Skills: In this section, Hari Babu lists their professional skills, including HTML, CSS, JavaScript, Bootstrap, React.js, and Java. Each skill is accompanied by a progress bar indicating their proficiency.
 
